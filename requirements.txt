@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+numdifftools
+tqdm
+pymle-diffusion
